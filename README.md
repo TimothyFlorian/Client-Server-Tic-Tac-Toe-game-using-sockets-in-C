@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Online
+# Client-Server-Tic-Tac-Toe-game-using-sockets-in-C
 
 Welcome to Tic-Tac-Toe Online! This project enables multiple players to enjoy the classic game of Tic-Tac-Toe over a network connection. Players can connect to a central server and compete against each other in real-time.
 
